@@ -1,0 +1,1 @@
+# rails-generators-readme-seiji-test-batch-001
